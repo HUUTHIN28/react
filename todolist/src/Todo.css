@@ -1,0 +1,9 @@
+.todo1{
+    text-align: left;
+    padding-left: 4px;
+    padding-right: 4px;
+}
+.done{
+    text-decoration: line-through;
+    font-size: xx-small;
+}
